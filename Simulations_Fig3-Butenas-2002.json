@@ -1,0 +1,16 @@
+{
+	"list_of_experiments":[
+		{
+			"experiment_name":"FIG3_Butenas_2002",
+			"path_to_experimental_data_file":"./data/FIG3_Butenas_Blood_2002.txt",
+			"experimental_simulation_model":"simulateFig3Butenas2002",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG3_H_Butenas_2002",
+			"path_to_experimental_data_file":"./data/FIG3_H_Butenas_Blood_2002.txt",
+			"experimental_simulation_model":"simulateFig3HButenas2002",
+			"measurement_data":""
+		}
+	]
+}

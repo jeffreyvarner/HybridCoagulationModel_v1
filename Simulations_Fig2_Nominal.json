@@ -1,0 +1,10 @@
+{
+	"list_of_experiments":[
+		{
+			"experiment_name":"FIG2_BM_1999_DATA_100FII_100ATIII",
+			"path_to_experimental_data_file":"./data/FIG2_BM_1999_DATA_100FII_100ATIII.txt",
+			"experimental_simulation_model":"simulateFig2BM1999100FII100ATIII",
+			"measurement_data":""
+		}
+	]
+}

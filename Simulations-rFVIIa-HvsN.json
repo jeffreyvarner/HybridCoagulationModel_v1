@@ -1,0 +1,16 @@
+{
+	"list_of_experiments":[
+		{
+			"experiment_name":"FIG1A_ALLEN_2006",
+			"path_to_experimental_data_file":"./data/Null.txt",
+			"experimental_simulation_model":"simulateFig1BAllenRFVIIaNormal",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG1A_ALLEN_2006",
+			"path_to_experimental_data_file":"./data/Null.txt",
+			"experimental_simulation_model":"simulateFig1BAllenRFVIIa2",
+			"measurement_data":""
+		}
+	]
+}

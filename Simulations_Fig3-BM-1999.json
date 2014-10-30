@@ -1,0 +1,34 @@
+{
+	"list_of_experiments":[
+		{
+			"experiment_name":"FIG3_BM_1999_150FII",
+			"path_to_experimental_data_file":"./data/FIG3_BM_1999_150FII.txt",
+			"experimental_simulation_model":"simulateFig3BM1999150FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG3_BM_1999_125FII",
+			"path_to_experimental_data_file":"./data/FIG3_BM_1999_125FII.txt",
+			"experimental_simulation_model":"simulateFig3BM1999125FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG3_BM_1999_100FII",
+			"path_to_experimental_data_file":"./data/FIG3_BM_1999_100FII.txt",
+			"experimental_simulation_model":"simulateFig3BM1999100FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG3_BM_1999_75FII",
+			"path_to_experimental_data_file":"./data/FIG3_BM_1999_75FII.txt",
+			"experimental_simulation_model":"simulateFig3BM199975FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG3_BM_1999_50FII",
+			"path_to_experimental_data_file":"./data/FIG3_BM_1999_50FII.txt",
+			"experimental_simulation_model":"simulateFig3BM199950FII",
+			"measurement_data":""
+		}
+	]
+}

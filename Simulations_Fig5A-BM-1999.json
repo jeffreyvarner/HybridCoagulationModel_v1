@@ -1,0 +1,22 @@
+{
+	"list_of_experiments":[
+		{
+			"experiment_name":"FIG5A_BM_1999_150FII",
+			"path_to_experimental_data_file":"./data/FIG5A_BM_1999_150FII.txt",
+			"experimental_simulation_model":"simulateFig5ABM1999150FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG5A_BM_1999_100FII",
+			"path_to_experimental_data_file":"./data/FIG5A_BM_1999_100FII.txt",
+			"experimental_simulation_model":"simulateFig5ABM1999100FII",
+			"measurement_data":""
+		},
+		{
+			"experiment_name":"FIG5A_BM_1999_50FII",
+			"path_to_experimental_data_file":"./data/FIG5A_BM_1999_50FII.txt",
+			"experimental_simulation_model":"simulateFig5ABM199950FII",
+			"measurement_data":""
+		}
+	]
+}
